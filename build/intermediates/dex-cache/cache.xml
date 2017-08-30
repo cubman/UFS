@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Анатолий\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\UFS\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_7e85edab592ab48b0817ee4cee139d25577273e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Анатолий\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\UFS\app\build\intermediates\pre-dexed\debug\okio-1.13.0_7163741805691da48dcb628fb837a0f5fc6537ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\UFS\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_5e2284d911c85151ec8462f274b1173d07e7c4a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Анатолий\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\UFS\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_92871d63df4c5c2339ef936bdd81b05f020482a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Анатолий\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.1\feab46062803513d6a8307c74b0084265855de1a\logging-interceptor-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="feab46062803513d6a8307c74b0084265855de1a">
+        <dex dex="C:\UFS\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.8.1_af466f32c031bbd6ffe0ca6ce986cea5c60173c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Анатолий\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\UFS\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_38a7f1f0b63458f8c867d8c847d2f006500be341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Анатолий\.android\build-cache\4cdd386cb0067db995c703e11151628d453a3e12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\UFS\app\build\intermediates\pre-dexed\debug\classes_9b230feeb9fc1d27c1efbfba449198ff7a5139ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Анатолий\.android\build-cache\cd4ed2bdf623234401edec60cf963ee23bcc1029\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\UFS\app\build\intermediates\pre-dexed\debug\classes_51ed964d6f3722b3e2b161dd239ce26816ed7fba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Анатолий\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\UFS\app\build\intermediates\pre-dexed\debug\gson-2.7_2df4f2e05d793f3ce934e44d9d685cf5595be7ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Анатолий\.android\build-cache\b796bd9f052c70ebdd764e22fa19227b393dd846\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\UFS\app\build\intermediates\pre-dexed\debug\classes_575588cf09c9e586b134c44a5dce09dab47eaf1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Анатолий\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="C:\UFS\app\build\intermediates\pre-dexed\debug\okhttp-3.8.1_51664c8de073d731c5006ad9954918ef976952a0.jar" />
+    </item>
+
+</items>

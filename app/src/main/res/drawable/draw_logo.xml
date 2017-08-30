@@ -2,7 +2,7 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@color/blackRed"></item>
     <item>
-        <bitmap android:src="@drawable/ufs_logo"
+        <bitmap android:src="@drawable/ufs_log"
             android:gravity="center"
 
             ></bitmap>
