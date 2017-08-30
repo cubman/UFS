@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UFS</string>
+    <string name="news">News</string>
+    <string name="events">Events</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="arena">Arena</string>
+</resources>
