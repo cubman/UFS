@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@color/blackRed"></item>
+    <item android:drawable="@color/blackColor"></item>
     <item>
         <bitmap android:src="@drawable/ufs_log"
             android:gravity="center"

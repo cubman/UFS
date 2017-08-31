@@ -11,6 +11,15 @@
         <dex dex="C:\UFS\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_7e85edab592ab48b0817ee4cee139d25577273e1.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="C:\UFS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\UFS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5121e3204d29658325d8fceeb8e6db82df6e6f79\classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="C:\Users\Анатолий\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
         jumboMode="false"
@@ -72,6 +81,15 @@
         revision="25.0.2"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
         <dex dex="C:\UFS\app\build\intermediates\pre-dexed\debug\classes_51ed964d6f3722b3e2b161dd239ce26816ed7fba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\UFS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e50f82d63ad96cd8a11ad7979cebe06d44cf3a8">
+        <dex dex="C:\UFS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a5d6103c2281cec36e086440ee41fdfff58ba365\classes.dex" />
     </item>
     <item
         is-multidex="false"
